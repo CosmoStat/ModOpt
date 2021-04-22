@@ -1,4 +1,4 @@
-importlib_metadata==3.7.0
+importlib_metadata==4.0.1
 numpy==1.19.5
 scipy==1.5.4
 progressbar2==3.53.1
